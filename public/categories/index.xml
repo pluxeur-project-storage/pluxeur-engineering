@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Pluxeur Engineering</title>
+        <link>https://pluxeur-engineering.netlify.app/categories/</link>
+        <description>Categories - Category - Pluxeur Engineering</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://pluxeur-engineering.netlify.app/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

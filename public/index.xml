@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pluxeur Engineering</title>
+        <link>https://pluxeur-engineering.netlify.app/</link>
+        <description>Pluxeur Engineering</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 29 Apr 2022 19:53:45 &#43;0100</lastBuildDate>
+            <atom:link href="https://pluxeur-engineering.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Relocating Servers Maintenance</title>
+    <link>https://pluxeur-engineering.netlify.app/posts/2022/04/server/moving_site_host/</link>
+    <pubDate>Fri, 29 Apr 2022 19:53:45 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://pluxeur-engineering.netlify.app/posts/2022/04/server/moving_site_host/</guid>
+    <description><![CDATA[The timeline of the update can be found at the bottom of the post.
+Reason for relocation We relocated all of our websites/data located on VE1 to NE2, this is so we can remove the VE1 from our workflow. As this was a very old &amp; slow servers which took a while to update things on so we are moving to NE2, which is a faster server &amp; much easier to update with continuous integration.]]></description>
+</item><item>
+    <title>Server Configuration Maintenance</title>
+    <link>https://pluxeur-engineering.netlify.app/posts/2022/04/server/server_configuration_maintenance/</link>
+    <pubDate>Fri, 29 Apr 2022 19:53:45 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://pluxeur-engineering.netlify.app/posts/2022/04/server/server_configuration_maintenance/</guid>
+    <description><![CDATA[The timeline of the update can be found at the bottom of the post.
+The reason for reconfiguration The reconfiguration of the servers came after a recent security issue was found in our backend infrastructure. The on-call engineers scheduled the maintenance for 20:00 on the 29/04/2022. This
+We also decided it was a better idea to move all of our projects to a GitHub organization rather than a single account &amp; remove our monorepo from our workflow.]]></description>
+</item></channel>
+</rss>
